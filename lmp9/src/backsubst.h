@@ -1,3 +1,5 @@
+// Stanislaw Dutkiewicz
+// Filip Kobus
 #ifndef _BACKSUBST_H
 #define _BACKSUBST_H
 

@@ -1,3 +1,5 @@
+// Stanislaw Dutkiewicz
+// Filip Kobus
 #include "mat_io.h"
 #include <stdio.h>
 #include <stdlib.h>

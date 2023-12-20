@@ -1,3 +1,5 @@
+// Stanislaw Dutkiewicz
+// Filip Kobus
 #ifndef _MAT_IO_H
 #define _MAT_IO_H
 

@@ -1,3 +1,5 @@
+// Stanislaw Dutkiewicz
+// Filip Kobus
 #include "backsubst.h"
 /**
  * Zwraca 0 - wsteczne podstawienie zakonczone sukcesem

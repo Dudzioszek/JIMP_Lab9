@@ -1,3 +1,5 @@
+// Stanislaw Dutkiewicz
+// Filip Kobus
 #ifndef _GAUSS_H
 #define _GAUSS_H
 

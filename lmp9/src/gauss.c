@@ -1,3 +1,5 @@
+// Stanislaw Dutkiewicz
+// Filip Kobus
 #include "gauss.h"
 #include <math.h>
 
